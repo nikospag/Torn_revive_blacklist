@@ -2,7 +2,7 @@
 // @run-at       document-end
 // @name         Torn revive blacklist
 // @namespace    torn
-// @version      1.0
+// @version      1.1
 // @description  Adds a red background color at the revive icons (at hospital list)
 // @include      https://www.torn.com/*
 // @author       nikospag
