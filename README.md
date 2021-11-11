@@ -1,6 +1,6 @@
 # Torn revive blacklist
 
-This script adds a red background color at the revive icons (at hospital list).
+This script adds a red background color at the revive icons for blacklisted users (at hospital list).
 
 In order to use the script, you need to have Tampermonkey installed. It's available as extension for Firefox and Chrome web browsers.
 
