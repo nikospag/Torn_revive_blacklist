@@ -1,4 +1,4 @@
-# Torn_revive_blacklist
+# Torn revive blacklist
 
 In order to use the scripts, you need to have Tampermonkey installed. It's available as extension for Firefox and Chrome web browsers.
 
