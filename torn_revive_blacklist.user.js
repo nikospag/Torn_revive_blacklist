@@ -13,7 +13,7 @@
 
 /* globals jQuery, $, waitForKeyElements */
 
-// Add or remove user IDs between the brackets separated by commas.
+// User Blacklist. Add or remove user ID numbers between the brackets separated by commas.
 // examlpe : [111111, 222222, 333333]. Here:
 const userBlst = [111111, 222222];
 //------------------------------
