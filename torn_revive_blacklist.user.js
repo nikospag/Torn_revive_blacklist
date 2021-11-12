@@ -2,14 +2,12 @@
 // @run-at       document-end
 // @name         Torn revive blacklist
 // @namespace    torn
-// @version      1.1
+// @version      1.0
 // @description  Adds a red background color at the revive icons (at hospital list)
 // @include      https://www.torn.com/*
 // @author       nikospag
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
-// @updateURL    https://github.com/nikospag/Torn_revive_blacklist/raw/main/torn_revive_blacklist.user.js
-// @downloadURL  https://github.com/nikospag/Torn_revive_blacklist/raw/main/torn_revive_blacklist.user.js
 // @icon         https://www.torn.com/favicon.ico
 // ==/UserScript==
 
