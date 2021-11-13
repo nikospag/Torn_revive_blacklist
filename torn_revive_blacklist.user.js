@@ -15,11 +15,11 @@
 
 // User Blacklist. Add or remove user ID numbers between the brackets separated by commas.
 // examlpe : [111111, 222222, 333333]. Here:
-const userBlst = [586850, 2386684, 2375993, 2595217, 1208073, 452527, 2113469, 1199649, 2402913];
+const userBlist = [586850, 2386684, 2375993, 2595217, 1208073, 452527, 2113469, 1199649, 2402913];
 //------------------------------
 
-for (let i in userBlst) {
-    waitForKeyElements('[href="revive.php?action=revive&ID='+userBlst[i]+'&text_response=1"]', function(jnd){
+for (let i in userBlist) {
+    waitForKeyElements('[href="revive.php?action=revive&ID='+userBlist[i]+'&text_response=1"]', function(jnd){
         jnd.css("background-color", "red");
     });
 }
