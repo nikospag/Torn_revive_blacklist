@@ -6,4 +6,4 @@ You can add or remove user IDs (you can edit it in Tampermonkey) for the players
 
 In order to use the script, you need to have Tampermonkey installed. It's available as extension for Firefox and Chrome web browsers.
 
-Once you have Tampermonkey installed, open <b>torn_revive_blacklist.user.js</b> script and click the "Raw" button. Then follow the prompt to install the script.
+Once you have Tampermonkey installed, open <b>[torn_revive_blacklist.user.js](https://github.com/nikospag/Torn_revive_blacklist/blob/main/torn_revive_blacklist.user.js)</b> script and click the "Raw" button. Then follow the prompt to install the script.
