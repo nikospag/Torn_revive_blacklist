@@ -1,6 +1,6 @@
 # Torn revive blacklist
 
-This script highlights with a red background color the revive icons for blacklisted users (at hospital list).
+This script highlights with a red background color the revive icons for blacklisted users (in hospital list).
 
 You can add or remove user IDs (you can edit it in Tampermonkey) for the players you want to blacklist between the brackets separated by commas. <br> Examlpe : [111111, 222222, 333333]. (see the script)
 
