@@ -20,7 +20,7 @@ const userBlist = [586850, 2386684, 2375993, 2595217, 1208073, 452527, 2113469, 
 
 // Faction Blacklist. Add or remove faction ID numbers between the brackets separated by commas.
 // examlpe : [111111, 222222, 333333]. Here:
-const factionBlist = [111111, 222222];
+const factionBlist = [230];
 //------------------------------
 
 for (let i in userBlist) {
