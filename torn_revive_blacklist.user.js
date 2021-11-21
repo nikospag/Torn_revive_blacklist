@@ -2,7 +2,7 @@
 // @run-at       document-end
 // @name         Torn revive blacklist
 // @namespace    torn
-// @version      1.0
+// @version      1.1
 // @description  Adds a red background color at the revive icons (at hospital list)
 // @include      https://www.torn.com/hospitalview.php*
 // @author       nikospag
@@ -18,8 +18,19 @@
 const userBlist = [586850, 2386684, 2375993, 2595217, 1208073, 452527, 2113469, 1199649, 2402913];
 //------------------------------
 
+// Faction Blacklist. Add or remove faction ID numbers between the brackets separated by commas.
+// examlpe : [111111, 222222, 333333]. Here:
+const factionBlist = [27312, 222222, 9201];
+//------------------------------
+
 for (let i in userBlist) {
     waitForKeyElements('[href="revive.php?action=revive&ID='+userBlist[i]+'&text_response=1"]', function(jnd){
+        jnd.css("background-color", "red");
+    });
+}
+
+for (let i in factionBlist) {
+    waitForKeyElements('[href="/factions.php?step=profile&ID='+factionBlist[i]+'"] ~ .revive', function(jnd){
         jnd.css("background-color", "red");
     });
 }
