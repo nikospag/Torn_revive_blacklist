@@ -9,7 +9,7 @@ In order to use the script, you need to have Tampermonkey installed. It's availa
 Once you have Tampermonkey installed, open <b>[torn_revive_blacklist.user.js](https://github.com/nikospag/Torn_revive_blacklist/blob/main/torn_revive_blacklist.user.js)</b> script and click the "Raw" button. Then follow the prompt to install the script.
 
 #### To do list:
-- [ ] Add notification at blacklisted profile pages
+- [x] Add notification at blacklisted profile pages. **Done!!**
 - [x] Add option to blacklist factions. **Done!!**
 -----------------------------
 **Script in action:**
