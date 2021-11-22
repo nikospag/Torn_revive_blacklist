@@ -1,6 +1,6 @@
 # Torn revive blacklist
 
-This script highlights with a red background color the revive icons for blacklisted users and factions (in hospital list).
+This script highlights with a red background color the revive icons for blacklisted users and factions (in hospital list).<br>
 It also adds a notification in blacklisted profile pages.
 
 You can add or remove user and faction IDs (you can edit it in Tampermonkey) for the players or factions you want to blacklist between the brackets separated by commas. <br> Examlpe : [111111, 222222, 333333]. (see the script)
