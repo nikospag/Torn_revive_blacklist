@@ -12,6 +12,10 @@ Once you have Tampermonkey installed, open <b>[torn_revive_blacklist.user.js](ht
 - [x] Add notification at blacklisted profile pages. **Done!!**
 - [x] Add option to blacklist factions. **Done!!**
 -----------------------------
-**Script in action:**
+**Script in action in hospital:**
 
 ![Torn hospital1](https://user-images.githubusercontent.com/25113052/142399201-a3516895-0260-4937-9c9a-73daf64800ca.png)
+
+**Script in action in profile page:**
+
+![torn profile](https://user-images.githubusercontent.com/25113052/142950054-8dcbdc21-69ce-4d84-b500-901e39f60cfe.png)
