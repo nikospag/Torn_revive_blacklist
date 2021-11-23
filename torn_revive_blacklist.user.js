@@ -47,7 +47,7 @@ for (let i in factionBlist) {
         jnd.css("background-color", "red");
     });
     if (window.location.pathname == "/profiles.php"){
-        waitForKeyElements('[href="/factions.php?step=profile&ID='+factionBlist[i]+'"]', function(jnd){
+        waitForKeyElements('[href^="/factions.php?step=profile&ID='+factionBlist[i]+'"]', function(jnd){
         notif();
         });
     }
