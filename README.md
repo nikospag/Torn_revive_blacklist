@@ -3,7 +3,7 @@
 This script highlights with a red background color the revive icons for blacklisted users and factions (in hospital list).<br>
 It also adds a notification in blacklisted profile pages.
 
-You can add or remove user and faction IDs (you can edit it in Tampermonkey) for the players or factions you want to blacklist between the brackets separated by commas. <br> Examlpe : [111111, 222222, 333333]. (see the script)
+You can add or remove user and faction IDs (you can edit it in Tampermonkey) for the players and factions you want to blacklist between the brackets separated by commas. <br> Examlpe : [111111, 222222, 333333]. (see the script)
 
 In order to use the script, you need to have Tampermonkey installed. It's available as extension for Firefox and Chrome web browsers.
 
