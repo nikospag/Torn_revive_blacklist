@@ -3,7 +3,7 @@
 // @name         Torn revive blacklist
 // @namespace    torn
 // @version      1.2
-// @description  Adds a red background color at the revive icons (at hospital list)
+// @description  Adds a red background color at the revive icons for blacklisted users and factions. (at hospital list)
 // @include      https://www.torn.com/hospitalview.php*
 // @include      https://www.torn.com/profiles.php?XID=*
 // @author       nikospag
