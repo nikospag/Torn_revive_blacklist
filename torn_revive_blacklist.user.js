@@ -17,7 +17,7 @@
 // User Blacklist
 // Add or remove user ID numbers between the brackets separated by commas.
 // examlpe : [111111, 222222, 333333]. Here:
-const userBlist = [586850, 2386684, 2375993, 2595217, 1208073, 452527, 2113469, 1199649, 2402913, 2730265];
+const userBlist = [586850, 2386684, 2375993, 2595217, 1208073, 452527, 2113469, 1199649, 2402913, 2730265, 1909292];
 
 // Faction Blacklist
 // Add or remove faction ID numbers between the brackets separated by commas.
