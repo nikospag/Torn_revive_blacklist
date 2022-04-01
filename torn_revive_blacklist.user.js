@@ -1,6 +1,6 @@
 // ==UserScript==
-// @run-at       document-end
 // @name         Torn revive blacklist
+// @run-at       document-end
 // @namespace    torn
 // @version      1.2
 // @description  Adds a red background color at the revive icons for blacklisted users and factions. (at hospital list)
