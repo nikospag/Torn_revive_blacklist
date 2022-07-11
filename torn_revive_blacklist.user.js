@@ -4,8 +4,8 @@
 // @namespace    torn
 // @version      1.3
 // @description  Adds a red background color at the revive icons for blacklisted users and factions. (at hospital list)
-// @include      https://www.torn.com/hospitalview.php*
-// @include      https://www.torn.com/profiles.php?XID=*
+// @match        https://www.torn.com/hospitalview.php*
+// @match        https://www.torn.com/profiles.php?XID=*
 // @author       nikospag
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
