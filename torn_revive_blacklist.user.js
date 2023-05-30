@@ -2,7 +2,7 @@
 // @name         Torn revive blacklist
 // @run-at       document-end
 // @namespace    torn
-// @version      1.3
+// @version      1.4
 // @description  Adds a red background color at the revive icons for blacklisted users and factions. (at hospital list)
 // @match        https://www.torn.com/hospitalview.php*
 // @match        https://www.torn.com/profiles.php?XID=*
@@ -17,7 +17,7 @@
 // User Blacklist
 // Add or remove user ID numbers between the brackets separated by commas.
 // examlpe : [111111, 222222, 333333]. Here:
-const userBlist = [586850, 2386684, 2375993, 2595217, 1208073, 452527, 2113469, 1199649, 2402913, 2730265, 1909292, 1379434];
+const userBlist = [586850, 2386684, 2375993, 2595217, 1208073, 452527, 2113469, 1199649, 2402913, 2730265, 1909292, 1379434, 1778539];
 
 // Faction Blacklist
 // Add or remove faction ID numbers between the brackets separated by commas.
